@@ -1,0 +1,94 @@
+{
+  "pesquisas": [
+    {
+      "cidade": "Alvares Machado",
+      "estado": "São Paulo",
+      "QtdPesquisa": 20,
+      "QtdPesquisaAbertas": 10,
+      "QtdPesquisaFinalizadas": 0,
+      "QtdDeVotos": 0,
+      "id": "9d4a"
+    },
+    {
+      "cidade": "Alvares Machado",
+      "estado": "São Paulo",
+      "QtdPesquisa": 20,
+      "QtdPesquisaAbertas": 10,
+      "QtdPesquisaFinalizadas": 0,
+      "QtdDeVotos": 0,
+      "id": "ab88"
+    },
+    {
+      "cidade": "São Carlos",
+      "estado": "São Paulo",
+      "QtdPesquisa": 10,
+      "QtdPesquisaAbertas": 10,
+      "QtdPesquisaFinalizadas": 0,
+      "QtdDeVotos": 0,
+      "id": "ae3f"
+    },
+    {
+      "cidade": "Uberlandia",
+      "estado": "São Paulo",
+      "QtdPesquisa": 10,
+      "QtdPesquisaAbertas": 10,
+      "QtdPesquisaFinalizadas": 0,
+      "QtdDeVotos": 0,
+      "id": "c44e"
+    },
+    {
+      "cidade": "Maringa",
+      "estado": "São Paulo",
+      "QtdPesquisa": 10,
+      "QtdPesquisaAbertas": 10,
+      "QtdPesquisaFinalizadas": 0,
+      "QtdDeVotos": 0,
+      "id": "7ab1"
+    },
+    {
+      "cidade": "Maringa",
+      "estado": "São Paulo",
+      "QtdPesquisa": 10,
+      "QtdPesquisaAbertas": 10,
+      "QtdPesquisaFinalizadas": 0,
+      "QtdDeVotos": 0,
+      "id": "1821"
+    },
+    {
+      "cidade": "São merceds do sul",
+      "estado": "São Paulo",
+      "QtdPesquisa": 10,
+      "QtdPesquisaAbertas": 10,
+      "QtdPesquisaFinalizadas": 0,
+      "QtdDeVotos": 0,
+      "id": "d782"
+    },
+    {
+      "cidade": "Ponta Grossa",
+      "estado": "São Paulo",
+      "QtdPesquisa": 10,
+      "QtdPesquisaAbertas": 10,
+      "QtdPesquisaFinalizadas": 0,
+      "QtdDeVotos": 0,
+      "id": "914e"
+    },
+    {
+      "cidade": "salinas",
+      "estado": "Para",
+      "QtdPesquisa": 10,
+      "QtdPesquisaAbertas": 10,
+      "QtdPesquisaFinalizadas": 0,
+      "QtdDeVotos": 1,
+      "id": "0c3b"
+    },
+    {
+      "cidade": "Balneario Camboriu",
+      "estado": "Santa Catarina",
+      "QtdPesquisa": 15,
+      "QtdPesquisaAbertas": 10,
+      "QtdPesquisaFinalizadas": 0,
+      "QtdDeVotos": 0,
+      "id": "8069"
+    }
+  ]
+}
